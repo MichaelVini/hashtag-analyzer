@@ -5,6 +5,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-4.x-FF6384.svg?style=flat-square&logo=chart.js)](https://www.chartjs.org/)
 
+🌐 **[Ver Demo](https://michaelvini.github.io/hashtag-analyzer)**
+
 Uma ferramenta moderna e intuitiva para análise de hashtags, permitindo comparações detalhadas e insights valiosos sobre o desempenho de suas hashtags nas redes sociais.
 
 ## ✨ Funcionalidades
