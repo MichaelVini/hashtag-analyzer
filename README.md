@@ -28,26 +28,26 @@ Uma ferramenta moderna e intuitiva para análise de hashtags, permitindo compara
 ## 🛠️ Instalação
 
 1. Clone o repositório:
-\`\`\`bash
+```
 git clone https://github.com/MichaelVini/hashtag-analyzer.git
 cd hashtag-analyzer
-\`\`\`
+```
 
-2. Instale as dependências:
-\`\`\`bash
+3. Instale as dependências:
+```
 npm install
-\`\`\`
+```
 
-3. Configure as variáveis de ambiente:
-\`\`\`bash
+5. Configure as variáveis de ambiente:
+```
 cp .env.example .env
-\`\`\`
+```
 Edite o arquivo `.env` com suas credenciais do Instagram.
 
-4. Inicie o servidor de desenvolvimento:
-\`\`\`bash
+6. Inicie o servidor de desenvolvimento:
+```
 npm run dev
-\`\`\`
+```
 
 ## 📝 Uso
 
@@ -64,9 +64,6 @@ npm run dev
 
 Contribuições são bem-vindas! Por favor, leia as [diretrizes de contribuição](CONTRIBUTING.md) antes de enviar um pull request.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👥 Autores
 
