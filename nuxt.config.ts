@@ -9,6 +9,8 @@ export default defineNuxtConfig({
     classSuffix: ''
   },
   app: {
+    baseURL: '/hashtag-analyzer/',
+    buildAssetsDir: 'assets',
     pageTransition: {
       name: 'page',
       mode: 'out-in'
